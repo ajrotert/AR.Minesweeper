@@ -13,3 +13,9 @@ Wanting to futher build skills relating to Object-Oriented Design and windows fo
 
 # Tech
 Built using Object-Oriented Design and C#.
+
+
+# Preview
+Minesweeper                 |  Desktop App
+:-------------------------:|:-------------------------:
+![alt text 1](https://github.com/ajrotert/AR.Minesweeper/blob/master/Minesweeper.gif?raw=true)  |   Windows Only
